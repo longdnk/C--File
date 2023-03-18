@@ -1,0 +1,4 @@
+12/12/2022 -> 16/12/2022 cài đặt, hiểu và thao tác cơ bản được với mông gô đờ bờ
+19/12/2022 -> 23/12/2022 đọc doc thông qua qall peach 120cm và tự ghi doc cho chính bản thân
+26/12/2022 -> 30/12/2022 tiến hành vào tìm hiểu code của Happy huynh và xì tôm huynh, làm quen với back end dần
+- trong quá trình học hỏi, tìm hiểu thêm các thuật toán về đường đi, tối ưu tính toán, kỹ thuật quy hoạch động
